@@ -10,13 +10,16 @@
 
 namespace Application\Controller;
 
-use Zend\Mvc\Controller\AbstractActionController;
+use Enrise\RestfulApi\Mvc\Controller\AbstractRestfulController;
 use Zend\View\Model\ViewModel;
 
-class IndexController extends AbstractActionController
+class Api extends AbstractRestfulController
 {
-    public function indexAction()
+
+    public function rootGetAction()
     {
-        return new ViewModel();
+        $view = new ViewModel(array('foo' => 'bar'));
+        return $view;
     }
+
 }
