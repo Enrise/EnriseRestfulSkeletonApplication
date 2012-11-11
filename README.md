@@ -1,6 +1,8 @@
 EnriseSkeletonRestfulApi
 ========================
 
+Maintainer: Dolf Schimmel - Freeaqingme (dolfschimmel@gmail.com)
+
 WIP
 ---
 
