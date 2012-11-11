@@ -1,5 +1,11 @@
-ZendSkeletonApplication
-=======================
+EnriseSkeletonRestfulApi
+========================
+
+WIP
+---
+
+This project is still a work in progress which may or may not work. The steps outlined below may not work yet.
+
 
 Introduction
 ------------
