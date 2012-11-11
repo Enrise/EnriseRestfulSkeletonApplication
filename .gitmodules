@@ -3,4 +3,4 @@
 	url = https://github.com/zendframework/zf2.git
 [submodule "vendor/EnriseRestfulApi"]
 	path = vendor/EnriseRestfulApi
-	url = git@github.com:Enrise/EnriseRestfulSkeletonApplication.git
+	url = git@github.com:Enrise/EnriseRestfulApi.git
